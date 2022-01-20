@@ -1,1 +1,0 @@
-# practice-blog
